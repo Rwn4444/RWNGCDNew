@@ -2,7 +2,7 @@
 //  AppDelegate.m
 //  多线程
 //
-//  Created by kang liu on 17/2/18.
+//  Created by RWN on 17/2/18.
 //  Copyright © 2017年 RWN. All rights reserved.
 //
 

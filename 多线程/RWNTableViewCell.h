@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  RWNTableViewCell.h
 //  多线程
 //
 //  Created by kang liu on 17/2/18.
@@ -8,9 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
-@property (weak, nonatomic) IBOutlet UITableView *RWNTableView;
-
+@interface RWNTableViewCell : UITableViewCell
+@property (nonatomic, weak) UIImageView *imgView;
 @end
-
